@@ -1,0 +1,19 @@
+The URL for the /htop endpoint:
+
+https://crispy-dollop-wprprpg7pwr39jp9-5000.app.github.dev/
+
+
+{
+    "Name": "Nithish Reddy Annapureddy",
+    "Username": "codespace",
+    "Server Time": "2024-10-19 13:57:55",
+    "Top Output": {
+        "total": 15908149248,
+        "available": 13808162432,
+        "percent": 13.2,
+        "used": 2100810240,
+        "free": 13808162432
+    }
+}
+
+
